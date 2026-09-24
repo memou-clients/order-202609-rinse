@@ -6,7 +6,7 @@
 
 // --- USER CUSTOMIZATION CONFIG ---
 const BIRTHDAY_CONFIG = {
-  "girlfriendName": "Rise 1212",
+  "girlfriendName": "Rise 434343",
   "nickname": "RIse 4343",
   "boyfriendName": "Loviing 9898998",
   "birthdayDate": "Kapan yak",
