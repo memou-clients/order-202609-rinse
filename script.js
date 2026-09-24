@@ -7,14 +7,14 @@
 // --- USER CUSTOMIZATION CONFIG ---
 const BIRTHDAY_CONFIG = {
   "girlfriendName": "Rise 1212",
-  "nickname": "RIse 333",
-  "boyfriendName": "Loviing 5555",
-  "birthdayDate": "Denial",
+  "nickname": "RIse 4343",
+  "boyfriendName": "Loviing 9898998",
+  "birthdayDate": "Kapan yak",
   "castDialogues": {
     "spongebob": {
       "name": "SpongeBob SquarePants",
       "emoji": "🧽",
-      "quote": "I'M READY! I'M READY! To wish the most wonderful, sweetest, and gorgeous girl in all of Bikini Bottom a HAPPY BIRTHDAY! You light up the entire ocean brighter than a fresh hot batch of Krabby Patties! Best girlfriend in the seven seas!",
+      "quote": "Iam Ready Come OUT Wit U Tonight!",
       "sound": "sponge"
     },
     "patrick": {
